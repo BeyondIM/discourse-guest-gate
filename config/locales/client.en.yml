@@ -2,8 +2,8 @@ en:
   js:
     guest_gate:
       modal:
-        title: "Please Sign Up!"
-        sign_up_email: "Sign Up with Email"
-        sign_up: "Sign Up"
-        log_in: "I already have an account"
-        or: "or"
+        title: "加入社区"
+        sign_up_email: "通过 Email 注册"
+        sign_up: "注册"
+        log_in: "登录"
+        or: ""
