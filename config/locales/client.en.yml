@@ -2,7 +2,7 @@ en:
   js:
     guest_gate:
       modal:
-        title: "加入社区"
+        title: "加入 PortableAppK 社区"
         sign_up_email: "通过 Email 注册"
         sign_up: "注册"
         log_in: "登录"
